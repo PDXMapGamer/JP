@@ -7,7 +7,7 @@ export default function NavBar() {
       <Link className="link" href="/">
         Home
       </Link>
-      <Link className="link" href="kanji">
+      <Link className="link" href="/kanji">
         Kanji List
       </Link>
     </nav>
