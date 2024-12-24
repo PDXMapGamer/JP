@@ -10,6 +10,9 @@ export default function NavBar() {
       <Link className="link" href="/kanji">
         Kanji List
       </Link>
+      <Link className="link" href="/practice">
+        Practice Vocabulary
+      </Link>
     </nav>
   );
 }
