@@ -8,8 +8,10 @@ Special thanks to Kanjiapi.dev for sorting all the Jōyō Kanji with their API.
 <!-- todo Insert new users into the database -->
 
 <!-- todo  Practice page of website: -->
+<!-- todo list of categories will be displayed in a grid (example categories are things like cooking, programming, animals etc) -->
 <!-- todo Create component of a div that will go in the grid, contains name of category as well as the link to a dynamic page which retrieves data from the database which contains questions and answers for the catagory the user has selected -->
-<!--  -->
+<!-- todo Alternatively questions and answers could be stored in a lib folder-->
+<!-- todo create a category for coding related terms -->
 
 <!-- todo Create a page to allow users to make and view their 'Word Bank' where they can store a word, it's meaning(s) as well as an example sentence of the word used in context (Mainly be used to store new words found when reading, and the sentence they found the word in may be used as the example sentence) -->
 <!-- todo Have a feature where users can test their knowledge of words in their word bank -->
